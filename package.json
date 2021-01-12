@@ -1,0 +1,9 @@
+{
+    "name": "socket-chat-server",
+    "version": "0.0.1",
+    "description": "trying out socket.io; Making a server for the chatbox component.",
+    "dependencies": {
+        "express": "^4.17.1",
+        "socket.io": "^3.0.5"
+    }
+}
